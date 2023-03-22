@@ -1,0 +1,5 @@
+mph=1.60934
+
+kmph=float(input("Enter Speed of Vehicle: "))
+result=mph*kmph
+print("The speed of vehicle : ",result)
